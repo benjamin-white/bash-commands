@@ -54,5 +54,20 @@
 * **export :** _Can be used to set an environmental variable._
 * **expr :** _Evaluates an expression and prints the result to STDOUT._
 * **fdisk :** _Create or resize disk partitions._
+* **fgrep :** _Can be faster than 'grep' if searching for multiple strings._
+* **find :** _Search for files._
+* **for :** _Execute 'commands' for each 'words'._
+* **ftp :** _Launches an FTP prompt._
+* **function :** _Declare a function._
+* **fuser :** _Identify the process that is using a file or socket and optionally kill said process._
+* **gawk :** _Same as 'awk._'
+* **grep :** _Search a file for a text match._
+* **groupadd :** _Can add a user security group._
+* **groupdel :** _Inverse of above._
+* **groupmod :** _Modify a group._
+* **groups :** _Print the group name a user is in._
+* **gzip :** _Compress or decompress a file._
+* **head :** _Specify a leading amount of a file to output._
+* **history :** _Display the command history._
 
 All commands will have modifier flags available, for a comprehensive list on those details see : http://ss64.com/bash/
