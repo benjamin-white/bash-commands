@@ -69,5 +69,22 @@
 * **gzip :** _Compress or decompress a file._
 * **head :** _Specify a leading amount of a file to output._
 * **history :** _Display the command history._
+* **hostname :** _Use to print or set the hostname._
+* **htop :** _View system load per process._
+* **iconv :** _Convert the character encoding of one or more files._
+* **id :** _Print information about the current user._
+* **if :** _Conditionally execute a command._
+* **ifdown :** _Bring a network interface up or down (same as 'ifup')._
+* **import :** _Capture a portion of an X server screen._
+* **install :** _Copy files and set attributes._
+* **ip :** _Show and set routing, devices and tunnels._
+* **jobs :** _Lists the active jobs._
+* **join :** _Use to join lines (from files or STDIN)._
+* **kill :** _Kill a process by supplying its PID._
+* **killall :** _Kill a process by supplying its name._
+* **less :** _Format output to print one screen at a time for easier reading._
+* **link :** _Create a symbolic link to a file._
+* **local :** _Declare and set a variable within a function that has local scope._
+* **logname :** _Display the name of the currently logged in user._
 
 All commands will have modifier flags available, for a comprehensive list on those details see : http://ss64.com/bash/
