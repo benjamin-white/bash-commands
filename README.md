@@ -86,5 +86,73 @@
 * **link :** _Create a symbolic link to a file._
 * **local :** _Declare and set a variable within a function that has local scope._
 * **logname :** _Display the name of the currently logged in user._
+* **look :** _Display any lines prefixed by [string]._
+* **lprint :** _Print a file._
+* **lprintd :** _Abort a print job._
+* **lprintq :** _List the print queue._
+* **ls :** _Lists the contents of a directory._
+* **lsof :** _Lists all open files._
+* **make :** _Used for recompiling a group of programs._
+* **man :** _Opens a manual page._
+* **mkdir :** _Creates a new directory._
+* **mkfifo :** _For creating a FIFO file._
+* **mount :** _Used to mount a filesystem._
+* **mtr :** _Network diagnostics including traceroute and ping._
+* **mv :** _For moving or renaming files and directories._
+* **mmv :** _Mass move and rename._
+* **netcat :** _Read and write across networks; scan server responses / headers._
+* **netstat :** _To view networking information._
+* **nice :** _Run a command with adjusted scheduling priority._
+* **nl :** _Write a file with numbered lines._
+* **nohup :** _Run a command with hangup immunity._
+* **notify-send :** _Program to send a desktop notification._
+* **nslookup :** _Used to query internet nameservers._
+* **open :** _Open a file in its default application._
+* **op :** _Control user access to certain root applications._
+* **passwd :** _Updates a user password._
+* **ping :** _Test a network connection._
+* **pkill :** _Kill a process by supplying a full or partial name._
+* **popd :** _Use to traverse back down a path._
+* **pr :** _Prepare files for printing._
+* **printf :** _Format and print data._
+* **ps :** _Process status._
+* **pwd :** _Print the working directory._
+* **quota :** _Reports disk usage and limits._
+* **ram :** _Access RAM in raw mode._
+* **rar :** _For compressing and archiving files._
+* **rcp :** _Use to remotely copy files between two machines._
+* **readarray :** _Read from STDIN into an array variable._
+* **readonly :** _Specify a variable or function as read only._
+* **reboot :** _Reboot the system._
+* **rename :** _Use for partial renaming of files. Not a Bash builtin module._
+* **return :** _To exit a shell function._
+* **rm :** _For removing a file._
+* **rmdir :** _For removing directories._
+* **rsync :** _Remote file copy._
+* **screen :** _Multiplex a terminal across several processes._
+* **scp :** _Securely copy remote files._
+* **sdiff :** _Use to merge two files interactively._
+* **sed :** _Stream editor for basic text transformation._
+* **select :** _Select [value] in [words]._
+* **seq :** _Output a sequence of numbers with an optional step._
+* **set :** _Set or unset shell variables._
+* **sftp :** _SFTP program._
+* **shift :** _Shifts parameters to the left._
+* **shopt :** _Set on unset shell options, such as 'checkwinsize', etc._
+* **shutdown :** _Shutdown or restart the machine._
+* **sleep :** _Pause or delay for a specified time._
+* **slocate :** _Restricted (and secure) file searching._
+* **sort :** _Sort, merge or compare lines from input._
+* **source :** _Also the dot operator, will read and execute commands from a file within the current shell context._
+* **split :** _Split an input into fixed size pieces._
+* **ssh :** _Open a secure shell client to login and execute commands on a remote machine._
+* **stat :** _Displays file or file system status._
+* **strace :** _Traces system calls or status._
+* **su :** _Substitute user identity._
+* **sudo :** _To execute a command as another user._
+* **sum :** _Calculate a checksum, but prefer 'cksum'._
+* **suspend :** _Suspends the shell and awaits SIGCONT._
+* **sync :** _Write any buffered data in memory to disk._
 
+While this list is extensive it is not exhaustive.<br>
 All commands will have modifier flags available, for a comprehensive list on those details see : http://ss64.com/bash/
