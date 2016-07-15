@@ -199,7 +199,7 @@
 * **who :** _Print the users currently logged in._
 * **whoami :** _Print the information of the current user._
 * **wget :** _Retrieve a file via HTTP, HTTPS or FTP._
-* **write :** _Used to a message to another user._
+* **write :** _Used to send a message to another user._
 * **xargs :** _Execute a command passing a constructed argument list._
 * **xdg-open :** _Open a file or URL in the user's preferred program._
 * **xz :** _Will compress or decompress .xz or .lzma files._
