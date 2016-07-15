@@ -153,6 +153,57 @@
 * **sum :** _Calculate a checksum, but prefer 'cksum'._
 * **suspend :** _Suspends the shell and awaits SIGCONT._
 * **sync :** _Write any buffered data in memory to disk._
+* **tail :** _Selectively output the last part of a file._
+* **tar :** _Add to, list or extract files in an archive._
+* **tee :** _Redirect output to multpile files (useful for saving a copy of commands / responses)._
+* **test :** _Evaluate a conditional expression._
+* **time :** _Loads a utility to measure the running time of another program._
+* **timeout :** _Run a command with an exit time limit._
+* **times :** _Will output both the user and shell time._
+* **touch :** _Strictly, change the stamptime of a file. Generally, create a new file._
+* **top :** _Find & view CPU intensive processes running on the system._
+* **tput :** _Set terminal dependant capabilities, eg. color, position._
+* **traceroute :** _Print the route packets take to a network host._
+* **trap :** _Run a command once a signal is set._
+* **tr :** _Translate, squeeze and delete characters from the input._
+* **true :** _Gives true (exit status 0), though the ':' colon command will do this faster. In essence, do nothing successfully._
+* **tsort :** _Performs a topological sort from a file or STDIN._
+* **tty :** _Print the name of the terminal connected to STDIN._
+* **type :** _Describe a command for a name._
+* **ulimit :** _Limit a user's access to system resources._
+* **umask :** _Can be used to automatically set file permissions on newly created files._
+* **umount :** _Unmount a drive or device._
+* **unalias :** _Unset a command alias._
+* **uname :** _Print system information._
+* **units :** _Convert units from one scale to another._
+* **unrar :** _Extract uints from a .rar archive._
+* **unset :** _Remove variable or function names._
+* **unshar :** _Unpack a shell archive script._
+* **until :** _Conditionally execute commands._
+* **uptime :** _Report uptime._
+* **useradd :** _Create a new user or update default information._
+* **userdel :** _Delete a user account and associated files._
+* **usermod :** _Modify user account information._
+* **users :** _Prints a list of the currently logged in users._
+* **uuencode :** _Encode a binary file for transmission over networks that only support it._
+* **uudecode :** _Decode a file encoded with 'uuencode'._
+* **vdir :** _Verbosely list directory contents, prefer 'ls -la' for more detail._
+* **vi :** _Launch the visual editor (http://ss64.com/vi.html)._
+* **vmstat :** _Reports statistics on virtual memory usage and overheads._
+* **wait :** _Wait for the specified processes to terminate and return their exit status._
+* **watch :** _Execute (and display) a program periodically._
+* **wc :** _Display line, word and byte counts._
+* **whereis :** _Search for a program in $PATH and standard install directories._
+* **which :** _Search $PATH for a program file._
+* **while :** _Conditionally execute commands._
+* **who :** _Print the users currently logged in._
+* **whoami :** _Print the information of the current user._
+* **wget :** _Retrieve a file via HTTP, HTTPS or FTP._
+* **write :** _Used to a message to another user._
+* **xargs :** _Execute a command passing a constructed argument list._
+* **xdg-open :** _Open a file or URL in the user's preferred program._
+* **xz :** _Will compress or decompress .xz or .lzma files._
+* **zip :** _Package and compress archive files._
 
 While this list is extensive it is not exhaustive.<br>
 All commands will have modifier flags available, for a comprehensive list on those details see : http://ss64.com/bash/
